@@ -306,7 +306,7 @@ Add your license here (MIT, Apache, etc.)
 
 ## 👨‍💻 Author
 
-Created by **MOUMEY**
+Created by **SPC**
 
 ## 🤝 Contributing
 
