@@ -113,6 +113,7 @@ SMTP Server is ready
 [Email] Confirmation sent to inmousom@gmail.com
 [Email] Message ID: <message-id>
 ```
+![Uploading Screenshot 2026-08-30 201717.png…]()
 
 **Check your email!** You should receive an order confirmation. 📧
 
