@@ -113,7 +113,8 @@ SMTP Server is ready
 [Email] Confirmation sent to inmousom@gmail.com
 [Email] Message ID: <message-id>
 ```
-![Uploading Screenshot 2026-08-30 201717.png…]()
+<img width="1602" height="776" alt="Screenshot 2026-08-30 201717" src="https://github.com/user-attachments/assets/95d4aeba-7c28-4604-b6bb-721bf0fc37e5" />
+
 
 **Check your email!** You should receive an order confirmation. 📧
 
