@@ -1,5 +1,5 @@
 ---
-name: Node Events
+name: nodeevents
 description: Event-driven Node.js application with email automation
 tags: [nodejs, javascript, events, email, backend]
 ---
