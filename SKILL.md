@@ -1,9 +1,9 @@
 ```yaml
---
+---
 name: Node Events
 description: Event-driven Node.js application with email automation
 tags: [nodejs, javascript, events, email, backend]
---
+---
 
 # Node Events Skill
 
