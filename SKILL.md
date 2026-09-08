@@ -1,42 +1,54 @@
-# My Skill
-# Skills Demonstrated in Node Events
-
-## Backend Development
-- **Node.js** - Runtime environment for server-side JavaScript
-- **Express.js** - Web application framework for routing and middleware
-- **JavaScript (ES6+)** - Modern JavaScript syntax and concepts
-
-## Architecture & Design Patterns
-- **Event-Driven Architecture** - Asynchronous event processing
-- **Separation of Concerns** - Modular code organization
-- **Environment Configuration** - Secure credential management with .env
-
-## Email & Communication
-- **SMTP Integration** - Email server configuration
-- **Email Automation** - Automated confirmation and notification flows
-- **Message Queue Concepts** - Handling async email delivery
-
-## Integration & APIs
-- **Order Processing** - End-to-end transaction handling
-- **Inventory Management** - Stock tracking and updates
-- **Billing System** - Payment processing integration
-- **Analytics** - Event logging and data tracking
-
-## Development Practices
-- **Version Control (Git/GitHub)** - Code management and collaboration
-- **NPM Package Management** - Dependency management
-- **Environment Variables** - Secure configuration handling
-- **Error Handling** - Robust exception management
-- **Asynchronous Programming** - Promises, callbacks, and async/await
-
-## Testing & Deployment Ready
-- **.gitignore** - Proper project file exclusion
-- **package.json** - Project metadata and scripts
-- **package-lock.json** - Dependency version locking
-
+```yaml
+---
+name: Node Events
+description: Event-driven Node.js application with email automation
+tags: [nodejs, javascript, events, email, backend]
 ---
 
-### Level of Proficiency
-- **Advanced:** Node.js, JavaScript, Event-Driven Architecture
-- **Intermediate:** Express.js, SMTP, Async Programming
-- **Professional:** Email Automation, System Integration, Code Organization
+# Node Events Skill
+
+## Overview
+A full-stack Node.js application demonstrating event-driven architecture with automated email confirmations.
+
+## Features
+- Event-driven order processing
+- SMTP email automation
+- Inventory management
+- Billing integration
+- Analytics tracking
+
+## Tech Stack
+- Node.js & Express.js
+- SMTP Server
+- Environment variables (.env)
+- npm packages
+
+## Project Structure
+```
+nodeevents/
+├── app.js
+├── package.json
+├── .env
+└── node_modules/
+```
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Configure .env file
+4. Run: `node app.js`
+
+## Skills Demonstrated
+- Backend development
+- Event-driven architecture
+- Email automation
+- System integration
+- Asynchronous programming
+```
+
+## Key Points:
+- **YAML frontmatter** between `---` lines at the top
+- Includes: `name`, `description`, `tags`
+- Followed by markdown content
+
+Try this format and let me know if Lovable accepts it! 🚀
